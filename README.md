@@ -12,10 +12,10 @@ The **Heap.java** file contains the definition of a Heap class. The **Patient.ja
 
 **Comparator Interface** : The program makes use of the Java Comparator interface. Like the Comparable interface, it allows data to be compared and thus ordered. Comparator is more flexible as the way data can be compared can be implemented by different Comparator classes. These are the two Comparators used in this program:
 
-** - PatientAgeComparator.java**
+**PatientAgeComparator.java**
 The compare method performs the comparison between the age attribute of patients pt1 and pt2. The age of a patient is an integer.
 
-** - PatientConditionComparator.java**
+**PatientConditionComparator.java**
 The compare method for this Comparator performs the comparison between the condition attribute of patients pt1 and pt2.
 
 
